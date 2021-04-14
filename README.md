@@ -7,7 +7,8 @@ Bee Trip is a game developed using Unity Engine.
 # Prerequisites
 - Unity 2019.3.15f1 or higher
 
-
+# Download it on Google Play
+https://play.google.com/store/apps/details?id=com.UdarGames.BeeTrip&hl=iw&gl=US
 # Images
 ![Screenshot3](https://user-images.githubusercontent.com/76158235/114707900-6ba80b00-9d33-11eb-802f-59c3b58bdf8e.jpg)
 ![Screenshot4](https://user-images.githubusercontent.com/76158235/114707913-6ea2fb80-9d33-11eb-8a01-b475482cc888.jpg)
