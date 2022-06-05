@@ -40,7 +40,7 @@ Do you like this game? please share with your friends your experience... we woul
 
 BECOME FANS?
 Contact us:
-Follow us on Instagram: https://www.instagram.com/udargames/ .
+Follow us on Instagram: https://www.instagram.com/__udar/.
 
 
 Help us improve our games and don't doubt to contact us! We love your feedback.
